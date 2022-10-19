@@ -1,0 +1,74 @@
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.exe
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.deps.json
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.runtimeconfig.json
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.pdb
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\scopedcss\bundle\uploadimagefullstack.styles.css
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\refint\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.pdb
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Amir\other\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\ref\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.exe
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.deps.json
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.runtimeconfig.json
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\uploadimagefullstack.pdb
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\scopedcss\bundle\uploadimagefullstack.styles.css
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\refint\uploadimagefullstack.dll
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.pdb
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\uploadimagefullstack.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\FULL-STACK EMPLOY MANAGER\uploadimagefullstack\uploadimagefullstack\obj\Debug\net6.0\ref\uploadimagefullstack.dll
